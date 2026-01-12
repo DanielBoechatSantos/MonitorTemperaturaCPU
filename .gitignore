@@ -1,1 +1,22 @@
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de compilação C++ (MSVC e MinGW)
+*.obj
+*.o
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Binários que você mesmo compilou (opcional, já que deletamos a hardware_monitor.dll)
 hardware_monitor.dll
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de sistema
+Thumbs.db
+desktop.ini
