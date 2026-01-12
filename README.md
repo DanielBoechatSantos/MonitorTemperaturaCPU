@@ -34,7 +34,7 @@ Antes de rodar o projeto, você precisará:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/DanielBoechatSantos/MonitorTemperaturaCPU.git)
     ```
 2.  Certifique-se de que o arquivo `OpenHardwareMonitorLib.dll` está na mesma pasta que o script.
 3.  **Importante**: Clique com o botão direito na DLL -> Propriedades -> Marque **Desbloquear**.
