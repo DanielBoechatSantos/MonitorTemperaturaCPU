@@ -12,6 +12,9 @@ Um monitor de hardware moderno e minimalista desenvolvido em **Python** e **C++*
 - **Persistência de Dados**: Exibe as temperaturas **Mínima** e **Máxima** alcançadas durante a sessão.
 - **Alta Precisão**: Diferente da API WMI padrão, utiliza drivers de baixo nível para leitura real do die da CPU.
 
+## 📸 Preview
+![Preview](preview.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python 3.12**: Lógica principal e interface.
