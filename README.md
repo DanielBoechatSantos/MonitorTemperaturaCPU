@@ -1,4 +1,4 @@
-# 🌡️ CPU Thermal Dashboard
+# 🌡️ CPU Temperature Monitor
 
 Um monitor de hardware moderno e minimalista desenvolvido em **Python** e **C++**, utilizando a biblioteca do **Open Hardware Monitor** para obter leituras precisas de sensores de baixo nível.
 
